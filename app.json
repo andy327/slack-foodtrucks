@@ -1,0 +1,5 @@
+{
+  "name": "Foodtruck Locator",
+  "description": "A foodtruck locating service that can be integrated into Slack!",
+  "image": "heroku/scala"
+}
