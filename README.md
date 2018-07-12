@@ -97,8 +97,8 @@ GET     /foodtrucks                 controllers.Application.foodtrucks
 
 Once you're done modifying the actions and endpoint for your foodtrucks application, and have tested that the request works, adding a custom Slack integration is straight-forward. First visit the Slack [configurations page](https://slack.com/services/new/slash-commands) and click the 'Add Configuration' button. Then go ahead and fill out the settings you want, making sure to link the URL to a GET request for your app on Heroku:
 
-![Slack Integration](http://s15.postimg.org/eylm4qn6z/slack_ci.png)
+![Slack Integration](https://i.imgur.com/boo0muA.png)
 
 When you're ready, click 'Save Integration' and go ahead and test out your new Slack command! Try going to your Slackbot and typing the command `/foodtrucks`:
 
-![/foodtrucks](http://s9.postimg.org/fj1nr7n0f/slack_foodtrucks.png)
+![/foodtrucks](https://i.imgur.com/DeirKHo.png)
